@@ -1,5 +1,6 @@
-# Unsuprevised Machine Learning 
-### This $Notebook$ utilises Principal Component Analysis (PCA) - unsupervised learning method and clustering techniques to get insights from a sample dataset.
+Unsuprevised Machine Learning 
+
+This repository contains Jupyter Notebook that utilises Principal Component Analysis (PCA) - unsupervised learning method and clustering techniques to get insights from a sample dataset.
 
 The sample dataset is from the US Arrests Kaggle challenge (see link below) and will be explored later within this Notebook. A description of the data is given as: “This data set contains statistics, in arrests per 100,000 residents, for assault, murder, and rape in each of the 50 US states in 1973. Also given is the percent of the population living in urban areas.”
 
